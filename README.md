@@ -42,7 +42,8 @@ cross-browser, responsive, accessibility, and basic security testing.
 - Manual Testing
 - MS Excel/ TestRail
 - Jira (Practice)
-- MSSQL 
+- MSSQL
+- Postman (API Test)
 
 ## Note
 This is a practice project created for learning and portfolio purposes.
