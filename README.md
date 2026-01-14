@@ -40,9 +40,9 @@ cross-browser, responsive, accessibility, and basic security testing.
 
 ## Tools Used
 - Manual Testing
-- MS Excel / Google Sheets
+- MS Excel/ TestRail
 - Jira (Practice)
-- SQL (Simulated)
+- MSSQL 
 
 ## Note
 This is a practice project created for learning and portfolio purposes.
